@@ -1,6 +1,6 @@
-name: 00. GitHub Actions Usage Report
+#name: 00. GitHub Actions Usage Report
 
-on:
+#on:
   workflow_dispatch:
   schedule:
     #        ┌─────────────── minute
